@@ -1,0 +1,405 @@
+{
+  ".svelte-kit/generated/client-optimized/app.js": {
+    "file": "app/immutable/entry/app.DeD2x6NQ.js",
+    "name": "entry/app",
+    "src": ".svelte-kit/generated/client-optimized/app.js",
+    "isEntry": true,
+    "imports": [
+      "_PPVm8Dsz.js",
+      "_DzxXmuGy.js",
+      "_DHdBkak8.js",
+      "_6Jab4rmA.js",
+      "_BFjADP4c.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/generated/client-optimized/nodes/0.js",
+      ".svelte-kit/generated/client-optimized/nodes/1.js",
+      ".svelte-kit/generated/client-optimized/nodes/2.js",
+      ".svelte-kit/generated/client-optimized/nodes/3.js",
+      ".svelte-kit/generated/client-optimized/nodes/4.js",
+      ".svelte-kit/generated/client-optimized/nodes/5.js",
+      ".svelte-kit/generated/client-optimized/nodes/6.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.js": {
+    "file": "app/immutable/nodes/0._d60q2fk.js",
+    "name": "nodes/0",
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_DHdBkak8.js",
+      "_6Jab4rmA.js",
+      "_DzxXmuGy.js",
+      "_BbhVpj2e.js",
+      "_SsrO7awh.js",
+      "_DJmLRMDG.js",
+      "_vRniKS_b.js"
+    ],
+    "css": [
+      "app/immutable/assets/0.DIbWkyoA.css"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/1.js": {
+    "file": "app/immutable/nodes/1.CpEYRNI4.js",
+    "name": "nodes/1",
+    "src": ".svelte-kit/generated/client-optimized/nodes/1.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_DHdBkak8.js",
+      "_ix0jQgTT.js",
+      "_DzxXmuGy.js",
+      "_CdddOkKk.js",
+      "_vRniKS_b.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.js": {
+    "file": "app/immutable/nodes/2.CCBupEyq.js",
+    "name": "nodes/2",
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_DHdBkak8.js",
+      "_ix0jQgTT.js",
+      "_DzxXmuGy.js",
+      "_BFjADP4c.js",
+      "_BbhVpj2e.js",
+      "_2d8pJOiI.js",
+      "_DJmLRMDG.js",
+      "_CuDx0e9T.js"
+    ],
+    "css": [
+      "app/immutable/assets/2.DCbYxqdd.css"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/3.js": {
+    "file": "app/immutable/nodes/3.4VxzD09B.js",
+    "name": "nodes/3",
+    "src": ".svelte-kit/generated/client-optimized/nodes/3.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_PPVm8Dsz.js",
+      "_DHdBkak8.js",
+      "_ix0jQgTT.js",
+      "_DzxXmuGy.js",
+      "_BFjADP4c.js",
+      "_BbhVpj2e.js",
+      "_CdddOkKk.js"
+    ],
+    "dynamicImports": [
+      "src/lib/assets/img/_roly-saynotoweb3.gif",
+      "src/lib/assets/img/_sucks2.gif",
+      "src/lib/assets/img/_web.gif",
+      "src/lib/assets/img/alliens.gif",
+      "src/lib/assets/img/antinazi.gif",
+      "src/lib/assets/img/bestview.gif",
+      "src/lib/assets/img/bitwarden.gif",
+      "src/lib/assets/img/bufreepalestine.gif",
+      "src/lib/assets/img/chrmevil.gif",
+      "src/lib/assets/img/ddg.gif",
+      "src/lib/assets/img/debian-powered.gif",
+      "src/lib/assets/img/fftake.gif",
+      "src/lib/assets/img/internetprivacy.gif",
+      "src/lib/assets/img/pear.gif",
+      "src/lib/assets/img/shr.gif",
+      "src/lib/assets/img/spongebob_flag_twirlers_stamp_by_cassiecros13_d9q3om5.gif",
+      "src/lib/assets/img/zda3ek9i-3571bc83-3845-4101-976d-3e45df1bc511.gif"
+    ],
+    "css": [
+      "app/immutable/assets/3.CejU-4Os.css"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/4.js": {
+    "file": "app/immutable/nodes/4.DeeP_ay_.js",
+    "name": "nodes/4",
+    "src": ".svelte-kit/generated/client-optimized/nodes/4.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_DHdBkak8.js",
+      "_DzxXmuGy.js",
+      "_BbhVpj2e.js"
+    ],
+    "css": [
+      "app/immutable/assets/4.QEKTgwAq.css"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/5.js": {
+    "file": "app/immutable/nodes/5.YDAJR59Z.js",
+    "name": "nodes/5",
+    "src": ".svelte-kit/generated/client-optimized/nodes/5.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_DHdBkak8.js",
+      "_DzxXmuGy.js",
+      "_2d8pJOiI.js"
+    ],
+    "css": [
+      "app/immutable/assets/5.Ds14ns0d.css"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/6.js": {
+    "file": "app/immutable/nodes/6.o5LYLslU.js",
+    "name": "nodes/6",
+    "src": ".svelte-kit/generated/client-optimized/nodes/6.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_DHdBkak8.js",
+      "_ix0jQgTT.js",
+      "_DzxXmuGy.js",
+      "_BFjADP4c.js",
+      "_BbhVpj2e.js",
+      "_2d8pJOiI.js",
+      "_CuDx0e9T.js"
+    ],
+    "css": [
+      "app/immutable/assets/6.8XjjoKYd.css"
+    ]
+  },
+  "_2d8pJOiI.js": {
+    "file": "app/immutable/chunks/2d8pJOiI.js",
+    "name": "html",
+    "imports": [
+      "_DzxXmuGy.js",
+      "_DHdBkak8.js"
+    ]
+  },
+  "_6Jab4rmA.js": {
+    "file": "app/immutable/chunks/6Jab4rmA.js",
+    "name": "index-client",
+    "imports": [
+      "_DzxXmuGy.js"
+    ]
+  },
+  "_BFjADP4c.js": {
+    "file": "app/immutable/chunks/BFjADP4c.js",
+    "name": "if",
+    "imports": [
+      "_DzxXmuGy.js"
+    ]
+  },
+  "_BbhVpj2e.js": {
+    "file": "app/immutable/chunks/BbhVpj2e.js",
+    "name": "attributes",
+    "imports": [
+      "_DzxXmuGy.js"
+    ]
+  },
+  "_CdddOkKk.js": {
+    "file": "app/immutable/chunks/CdddOkKk.js",
+    "name": "state.svelte",
+    "imports": [
+      "_6Jab4rmA.js",
+      "_DzxXmuGy.js"
+    ]
+  },
+  "_CuDx0e9T.js": {
+    "file": "app/immutable/chunks/CuDx0e9T.js",
+    "name": "data",
+    "imports": [
+      "_DHdBkak8.js",
+      "_DzxXmuGy.js",
+      "_BbhVpj2e.js",
+      "_SsrO7awh.js"
+    ],
+    "css": [
+      "app/immutable/assets/data.moJZpTEV.css"
+    ]
+  },
+  "_DHdBkak8.js": {
+    "file": "app/immutable/chunks/DHdBkak8.js",
+    "name": "disclose-version",
+    "imports": [
+      "_DzxXmuGy.js"
+    ]
+  },
+  "_DJmLRMDG.js": {
+    "file": "app/immutable/chunks/DJmLRMDG.js",
+    "name": "favicon",
+    "assets": [
+      "app/immutable/assets/favicon.DFIVNGqU.svg"
+    ]
+  },
+  "_DzxXmuGy.js": {
+    "file": "app/immutable/chunks/DzxXmuGy.js",
+    "name": "runtime"
+  },
+  "_PPVm8Dsz.js": {
+    "file": "app/immutable/chunks/PPVm8Dsz.js",
+    "name": "preload-helper"
+  },
+  "_SsrO7awh.js": {
+    "file": "app/immutable/chunks/SsrO7awh.js",
+    "name": "style",
+    "imports": [
+      "_DzxXmuGy.js"
+    ]
+  },
+  "_data.moJZpTEV.css": {
+    "file": "app/immutable/assets/data.moJZpTEV.css",
+    "src": "_data.moJZpTEV.css"
+  },
+  "_ix0jQgTT.js": {
+    "file": "app/immutable/chunks/ix0jQgTT.js",
+    "name": "legacy",
+    "imports": [
+      "_DzxXmuGy.js"
+    ]
+  },
+  "_vRniKS_b.js": {
+    "file": "app/immutable/chunks/vRniKS_b.js",
+    "name": "entry",
+    "imports": [
+      "_DzxXmuGy.js",
+      "_CdddOkKk.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/entry.js": {
+    "file": "app/immutable/entry/start.C_Otaxpn.js",
+    "name": "entry/start",
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/entry.js",
+    "isEntry": true,
+    "imports": [
+      "_vRniKS_b.js",
+      "_CdddOkKk.js"
+    ]
+  },
+  "src/lib/assets/favicon.svg": {
+    "file": "app/immutable/assets/favicon.DFIVNGqU.svg",
+    "src": "src/lib/assets/favicon.svg"
+  },
+  "src/lib/assets/img/_roly-saynotoweb3.gif": {
+    "file": "app/immutable/chunks/C3F23a_3.js",
+    "name": "_roly-saynotoweb3",
+    "src": "src/lib/assets/img/_roly-saynotoweb3.gif",
+    "isDynamicEntry": true
+  },
+  "src/lib/assets/img/_sucks2.gif": {
+    "file": "app/immutable/chunks/hvjvfFd8.js",
+    "name": "_sucks2",
+    "src": "src/lib/assets/img/_sucks2.gif",
+    "isDynamicEntry": true
+  },
+  "src/lib/assets/img/_web.gif": {
+    "file": "app/immutable/chunks/JUbPCuGw.js",
+    "name": "_web",
+    "src": "src/lib/assets/img/_web.gif",
+    "isDynamicEntry": true
+  },
+  "src/lib/assets/img/alliens.gif": {
+    "file": "app/immutable/chunks/DqEwls-B.js",
+    "name": "alliens",
+    "src": "src/lib/assets/img/alliens.gif",
+    "isDynamicEntry": true,
+    "assets": [
+      "app/immutable/assets/alliens.CrdLeIK4.gif"
+    ]
+  },
+  "src/lib/assets/img/antinazi.gif": {
+    "file": "app/immutable/chunks/DpxlCFVD.js",
+    "name": "antinazi",
+    "src": "src/lib/assets/img/antinazi.gif",
+    "isDynamicEntry": true
+  },
+  "src/lib/assets/img/bestview.gif": {
+    "file": "app/immutable/chunks/BJxciWhk.js",
+    "name": "bestview",
+    "src": "src/lib/assets/img/bestview.gif",
+    "isDynamicEntry": true
+  },
+  "src/lib/assets/img/bitwarden.gif": {
+    "file": "app/immutable/chunks/DGE9pI8L.js",
+    "name": "bitwarden",
+    "src": "src/lib/assets/img/bitwarden.gif",
+    "isDynamicEntry": true
+  },
+  "src/lib/assets/img/bufreepalestine.gif": {
+    "file": "app/immutable/chunks/CutqD7zU.js",
+    "name": "bufreepalestine",
+    "src": "src/lib/assets/img/bufreepalestine.gif",
+    "isDynamicEntry": true,
+    "assets": [
+      "app/immutable/assets/bufreepalestine.IDyT4sv6.gif"
+    ]
+  },
+  "src/lib/assets/img/chrmevil.gif": {
+    "file": "app/immutable/chunks/XPJXrj2y.js",
+    "name": "chrmevil",
+    "src": "src/lib/assets/img/chrmevil.gif",
+    "isDynamicEntry": true,
+    "assets": [
+      "app/immutable/assets/chrmevil.fmQuy11c.gif"
+    ]
+  },
+  "src/lib/assets/img/ddg.gif": {
+    "file": "app/immutable/chunks/BpUkdDKy.js",
+    "name": "ddg",
+    "src": "src/lib/assets/img/ddg.gif",
+    "isDynamicEntry": true,
+    "assets": [
+      "app/immutable/assets/ddg.hd9eaCRO.gif"
+    ]
+  },
+  "src/lib/assets/img/debian-powered.gif": {
+    "file": "app/immutable/chunks/D8P3hsZX.js",
+    "name": "debian-powered",
+    "src": "src/lib/assets/img/debian-powered.gif",
+    "isDynamicEntry": true
+  },
+  "src/lib/assets/img/fftake.gif": {
+    "file": "app/immutable/chunks/NZ4g18Zw.js",
+    "name": "fftake",
+    "src": "src/lib/assets/img/fftake.gif",
+    "isDynamicEntry": true
+  },
+  "src/lib/assets/img/internetprivacy.gif": {
+    "file": "app/immutable/chunks/BlPE7_ML.js",
+    "name": "internetprivacy",
+    "src": "src/lib/assets/img/internetprivacy.gif",
+    "isDynamicEntry": true,
+    "assets": [
+      "app/immutable/assets/internetprivacy.p781a44I.gif"
+    ]
+  },
+  "src/lib/assets/img/pear.gif": {
+    "file": "app/immutable/chunks/CZClNvup.js",
+    "name": "pear",
+    "src": "src/lib/assets/img/pear.gif",
+    "isDynamicEntry": true,
+    "assets": [
+      "app/immutable/assets/pear.UFZvHaw1.gif"
+    ]
+  },
+  "src/lib/assets/img/shr.gif": {
+    "file": "app/immutable/chunks/CCZtMVXP.js",
+    "name": "shr",
+    "src": "src/lib/assets/img/shr.gif",
+    "isDynamicEntry": true,
+    "assets": [
+      "app/immutable/assets/shr.CSiwdjyd.gif"
+    ]
+  },
+  "src/lib/assets/img/spongebob_flag_twirlers_stamp_by_cassiecros13_d9q3om5.gif": {
+    "file": "app/immutable/chunks/svB2LQ-J.js",
+    "name": "spongebob_flag_twirlers_stamp_by_cassiecros13_d9q3om5",
+    "src": "src/lib/assets/img/spongebob_flag_twirlers_stamp_by_cassiecros13_d9q3om5.gif",
+    "isDynamicEntry": true,
+    "assets": [
+      "app/immutable/assets/spongebob_flag_twirlers_stamp_by_cassiecros13_d9q3om5.CSN0-baO.gif"
+    ]
+  },
+  "src/lib/assets/img/zda3ek9i-3571bc83-3845-4101-976d-3e45df1bc511.gif": {
+    "file": "app/immutable/chunks/CCSQepgH.js",
+    "name": "zda3ek9i-3571bc83-3845-4101-976d-3e45df1bc511",
+    "src": "src/lib/assets/img/zda3ek9i-3571bc83-3845-4101-976d-3e45df1bc511.gif",
+    "isDynamicEntry": true,
+    "assets": [
+      "app/immutable/assets/zda3ek9i-3571bc83-3845-4101-976d-3e45df1bc511.BoBNgUJQ.gif"
+    ]
+  }
+}
