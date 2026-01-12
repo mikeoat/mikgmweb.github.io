@@ -1,4 +1,4 @@
-import{d as Z,f as p,b as m,e as V,s as c}from"../chunks/Cxn9-Vi8.js";import"../chunks/DfbpPFFM.js";import{K as W,M as H,A as g,N as G,L as i,O as t,P as e,ab as K,g as o}from"../chunks/DYg73Apw.js";import{i as X}from"../chunks/C9_uFERL.js";import{e as O,i as z,s as R}from"../chunks/zt9AgQkm.js";import{h as q}from"../chunks/D7wCbR-Y.js";import{i as Y}from"../chunks/BMFzei_P.js";import{f as $}from"../chunks/DJmLRMDG.js";import{p as J,A as ee}from"../chunks/Bs-OtVBB.js";const te=`# power underneath despair\r
+import{d as Z,f as p,b as m,e as V,s as c}from"../chunks/Cxn9-Vi8.js";import"../chunks/DfbpPFFM.js";import{K as W,M as H,A as g,N as G,L as i,O as t,P as e,ab as K,g as o}from"../chunks/DYg73Apw.js";import{i as X}from"../chunks/C9_uFERL.js";import{e as O,i as z,s as R}from"../chunks/zt9AgQkm.js";import{h as q}from"../chunks/D7wCbR-Y.js";import{i as Y}from"../chunks/BMFzei_P.js";import{f as $}from"../chunks/DJmLRMDG.js";import{p as J,A as ee}from"../chunks/B12JOuT2.js";const te=`# power underneath despair\r
 \r
 looking down at the ground from a great height, i wonder why it is that i don't jump.\r
 \r
